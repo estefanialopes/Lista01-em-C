@@ -1,5 +1,8 @@
 #include<stdio.h>
+#include<stdlib.h>
+
 int main(){
+
 float salmin,salFunc, numsal;
 
 printf("Informe o valor do salario minimo:\n");
