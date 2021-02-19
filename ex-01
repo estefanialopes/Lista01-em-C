@@ -4,7 +4,6 @@ int main(){
 
 float salmin,salFunc, numsal;
 
-
 printf("Informe o valor do salario minimo:\n");
 scanf("%f",&salmin);
 
